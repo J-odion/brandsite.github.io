@@ -1,0 +1,17 @@
+This would contain some of the structure of the website, please follow through and reach out to us for and complaint and enquiry via
+(+234)-903-383-8340 or via email @ emmyjaff22@gmail.com
+-------------------------
+-------------------------
+From: Emmanuel .O. Jafaru
+LinkedIn: Jafaru Emmanuel
+*************************
+*************************
+-------------------------
+-------------------------
+
+***The assets folder contains all the added files such as CSS, Js, images and vendor
+the vendor includes all the external libraries such as bootstrap, jQuery and icon-font which are all a major part of this site.
+
+this document is open for replication
+reuse, copy and also improve.
+thank you
